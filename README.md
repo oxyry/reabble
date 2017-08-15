@@ -1,6 +1,6 @@
 # Reabble
 
-<http://reabble.com>
+:point_right: <http://reabble.com>
 
 Read RSS Feeds on Amazon Kindle
 
