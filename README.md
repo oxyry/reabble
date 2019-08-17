@@ -1,6 +1,8 @@
 # Reabble
 
-:point_right: <http://reabble.com>
+:point_right: [reabble.com](https://reabble.com)
+
+[中国大陆请访问 reabble.cn](https://reabble.cn)
 
 Read RSS Feeds on Amazon Kindle
 
@@ -9,21 +11,18 @@ Read RSS Feeds on Amazon Kindle
 
 ## Features
 
-- Two kinds of reading experience: Browser-based and Kindle's native mobi reader.
-- Browser-based read view is optimzed for e-Ink display: single tap to page down / up like native reader.
-- Download articles to Kindle local storage for offline read.
-- Send unread articles in .mobi format to Kindle wirelessly, on schedule.
-- One-click to convert partial-text to full-text.
-- Integrate with [Inoreader](http://www.inoreader.com), the world’s best RSS Reader.
-- Suitable for other e-Ink equipment.
+
+- Integrate with Inoreader, the world’s best RSS Reader.
+- Send articles to Kindle for offline read.
+- Excellent keyboard shortcuts support.
+- Optimzed for browsers run on E-Ink display.
 
 
 ## 功能
 
-- 二种阅读体验：浏览器和 Kindle 原生阅读器。
-- 专为 Kindle 浏览器设计的操作界面，单击翻页无需拖动。
-- 下载文章到 Kindle 本机存储以便离线阅读。
-- 定时无线推送文章到 Kindle。
-- 单击把摘要文章转成全文。
+
 - 和世界上最好的 RSS 阅读器 Inoreader 集成。
-- 也可用于其它电子墨水屏设备如 Nook、Kobo、博阅等。
+- 推送文章到 Kindle 离线阅读，可设置自动定时推送。
+- 完善的键盘快捷键支持。
+- 为运行在电子墨水屏上的浏览器特别优化，比如 Kindle、 Nook、 Kobo、 博阅等
+- 内置英汉词典， 即点即译。
