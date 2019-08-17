@@ -26,3 +26,5 @@ Read RSS Feeds on Amazon Kindle
 - 完善的键盘快捷键支持。
 - 为运行在电子墨水屏上的浏览器特别优化，比如 Kindle、 Nook、 Kobo、 博阅等
 - 内置英汉词典， 即点即译。
+
+欢迎使用中英文提交 Bug 报告或建议。
