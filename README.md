@@ -31,7 +31,6 @@ Read RSS Feeds on Amazon Kindle
 
 ## 待办
 
-- 推送文件使用最新 MOBI 格式。
 - 夜间模式。
 - 增加自动推送文章数量 50 篇上限。
 - 支持 Fever API。
@@ -39,6 +38,10 @@ Read RSS Feeds on Amazon Kindle
 - 生词本。
 
 ## 最近更新
+
+### 2019-08-18
+
+- 推送文件使用最新 MOBI 格式，允许选择自定义字体。
 
 ### 2019-08-16
 
