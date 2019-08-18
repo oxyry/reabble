@@ -1,8 +1,8 @@
 # Reabble
 
-:point_right: [reabble.com](https://reabble.com)
+Home Page: [reabble.com](https://reabble.com)
 
-[中国大陆请访问 reabble.cn](https://reabble.cn)
+中国大陆用户请访问: [reabble.cn](https://reabble.cn)
 
 Read RSS Feeds on Amazon Kindle
 
