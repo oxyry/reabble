@@ -57,3 +57,9 @@ Read RSS Feeds on Amazon Kindle
 - 国内备案，reabble.cn 使用国内服务器，增强了网络稳定性。
 - 增加电子墨水模式切换（齿轮图标菜单）。
 - 可以切换是否使用点击区域模式（非 Kindle 浏览器），使用点击区域模式时会隐藏底部工具栏。
+
+## 相关链接
+
+- [RSSHub](https://docs.rsshub.app/): 一个轻量、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源。
+- [今天看啥](http://www.jintiankansha.me/account/signup?invite_code=GB4FISKPPA): 把微信公众号、豆瓣、简书、知乎专栏、微博、掘金、微博搜索、Twitter等转成RSS。
+- [WeRss](https://werss.app/): 微信公众号转RSS。
