@@ -3,7 +3,7 @@
 
 Home Page: [reabble.com](https://reabble.com)
 
-中国大陆用户请访问: [reabble.cn](https://reabble.cn)
+中国大陆用户访问: [reabble.cn](https://reabble.cn)
 
 ## Features
 
@@ -36,6 +36,12 @@ Home Page: [reabble.com](https://reabble.com)
 - Kindle 浏览器罕见情况下会出现界面放大/有滚动条，用双指捏合缩小即可。滚动条可以用双击左上角消除。
 
 ## 主要更新
+
+### 2020-05-01
+
+- 推送设置添加电子书语言选择，会影响可选择的阅读字体。
+- 推送最大文章数量设置上限增加到100。
+- 推送设置增加禁止推送文件内链接是否可点击的设置。
 
 ### 2019-08-29
 
