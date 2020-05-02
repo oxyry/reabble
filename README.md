@@ -79,5 +79,6 @@ Home Page: [reabble.com](https://reabble.com)
 ## 相关链接
 
 - [RSSHub](https://docs.rsshub.app/): 一个轻量、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源。
+- [FeedX](https://feedx.net/): 网友维护的 RSS 列表 (feedx.net主站被q，可以使用<https://feedx.xyz/>)。
 - [今天看啥](http://www.jintiankansha.me/account/signup?invite_code=GB4FISKPPA): 把微信公众号、豆瓣、简书、知乎专栏、微博、掘金、微博搜索、Twitter等转成RSS。
 - [WeRss](https://werss.app/): 微信公众号转RSS。
