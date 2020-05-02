@@ -28,7 +28,6 @@ Home Page: [reabble.com](https://reabble.com)
 - 支持 Fever API。
 - 添加 Reabble 自身的 RSS 订阅支持。
 - 生词本。
-- 增加自动推送文章数量 50 篇上限。
 
 ## 已知问题
 
