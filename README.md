@@ -24,7 +24,6 @@ Home Page: [reabble.com](https://reabble.com)
 
 ## 待办
 
-- 夜间模式。
 - 支持 Fever API。
 - 添加 Reabble 自身的 RSS 订阅支持。
 - 生词本。
@@ -35,6 +34,10 @@ Home Page: [reabble.com](https://reabble.com)
 - Kindle 浏览器罕见情况下会出现界面放大/有滚动条，用双指捏合缩小即可。滚动条可以用双击左上角消除。
 
 ## 主要更新
+
+### 2020-05-04
+
+- 添加色彩主题和夜间模式功能。
 
 ### 2020-05-01
 
