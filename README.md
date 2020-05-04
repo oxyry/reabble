@@ -79,6 +79,10 @@ Home Page: [reabble.com](https://reabble.com)
 - 增加电子墨水模式切换（齿轮图标菜单）。
 - 可以切换是否使用点击区域模式（非 Kindle 浏览器），使用点击区域模式时会隐藏底部工具栏。
 
+### 2013-10-01
+
+- 网站上线。
+
 ## 相关链接
 
 - [RSSHub](https://docs.rsshub.app/): 一个轻量、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源。
